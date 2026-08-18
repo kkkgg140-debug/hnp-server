@@ -10,8 +10,8 @@
   "need_track_hotupdate": true,
   "abhotupdate_check": "cache_res;assetindexer",
   "latest_release_version": "OB55",
-  "min_hint_size": 0,
-  "should_check_ab_load": false,
+  "min_hint_size": 1,
+  "should_check_ab_load": true,
   "force_refresh_restype": "",
   "remote_version": "2.130.20",
   "server_url": "https://version.garena-freefire.com/",
@@ -48,8 +48,6 @@
   "gamevar": "var_name,comment,var_type,var_value\nMtpOff,desativar MTP completo,bool,true\nHeadShotDamageRatio,multiplicador de dano HS (HS Peito),float,4.0\n",
   "remote_option_version": "optionallocres:0|optionclothres:1|optionlobbyres:1|optionalpetres:1|optionskinres:0",
   "ggp_url": "gin.freefiremobile.com",
-  "skipResourceDownload": "false",
-  "skipUpdate": "false",
   "updateVersion": "1.130.20",
   "fakeVersion": "1.130.20"
 }
