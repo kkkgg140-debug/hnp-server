@@ -9,11 +9,11 @@
   "login_download_optionalpack": "optionalclothres:shaders|optionalpetres:optionalpetres_commonab_shader|optionallobbyres:",
   "need_track_hotupdate": true,
   "abhotupdate_check": "cache_res;assetindexer",
-  "latest_release_version": "OB55",
+  "latest_release_version": "OB54",
   "min_hint_size": 1,
   "should_check_ab_load": false,
   "force_refresh_restype": "",
-  "remote_version": "2.130.20",
+  "remote_version": "2.130.1",
   "server_url": "https://version.garena-freefire.com/",
   "is_review_server": false,
   "use_login_optional_download": true,
@@ -47,5 +47,7 @@
   "gop_url": "",
   "gamevar": "var_name,comment,var_type,var_value\nMtpOff,desativar MTP completo,bool,true\nHeadShotDamageRatio,multiplicador de dano HS (HS Peito),float,4.0\n",
   "remote_option_version": "optionallocres:0|optionclothres:1|optionlobbyres:1|optionalpetres:1|optionskinres:0",
-  "ggp_url": "gin.freefiremobile.com"
+  "ggp_url": "gin.freefiremobile.com",
+  "updateVersion": "1.130.1",
+  "fakeVersion": "1.130.1"
 }
