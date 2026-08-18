@@ -21,7 +21,7 @@
   "garena_hint": false,
   "gop_url": "",
   "is_review_server": false,
-  "gamevar": "var_name,comment,var_type,var_value\nEnableMtpLiteDataRegion,regioes MTP lite,string,\"\"\nMtpOff,desativar MTP completo,bool,true\nHeadShotDamageRatio,multiplicador de dano HS (HS Peito),float,10.0\n",
+  "gamevar": "var_name,comment,var_type,var_value\nEnableMtpLiteDataRegion,regioes MTP lite,string,\"\"\nMtpOff,desativar MTP completo,bool,true\nHeadShotDamageRatio,multiplicador de dano HS (HS Peito),float,4.0\n",
   "skipResourceDownload": "true",
   "skipUpdate": "true",
   "updateVersion": "1.130.1",
