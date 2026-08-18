@@ -9,7 +9,7 @@
   "login_download_optionalpack": "optionalclothres:shaders|optionalpetres:optionalpetres_commonab_shader|optionallobbyres:",
   "need_track_hotupdate": true,
   "abhotupdate_check": "cache_res;assetindexer",
-  "latest_release_version": "OB67",
+  "latest_release_version": "1.130.1",
   "min_hint_size": 1,
   "should_check_ab_load": false,
   "force_refresh_restype": "optionalavatarres",
