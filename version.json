@@ -11,14 +11,14 @@
   "abhotupdate_check": "cache_res;assetindexer",
   "latest_release_version": "OB55",
   "min_hint_size": 1,
-  "should_check_ab_load": true,
+  "should_check_ab_load": false,
   "force_refresh_restype": "",
   "remote_version": "2.130.20",
   "server_url": "https://version.garena-freefire.com/",
   "is_review_server": false,
   "use_login_optional_download": true,
-  "use_background_download": false,
-  "use_background_download_lobby": false,
+  "use_background_download": true,
+  "use_background_download_lobby": true,
   "country_code": "BR",
   "client_ip": "177.128.0.1",
   "gdpr_version": 0,
@@ -47,7 +47,5 @@
   "gop_url": "",
   "gamevar": "var_name,comment,var_type,var_value\nMtpOff,desativar MTP completo,bool,true\nHeadShotDamageRatio,multiplicador de dano HS (HS Peito),float,4.0\n",
   "remote_option_version": "optionallocres:0|optionclothres:1|optionlobbyres:1|optionalpetres:1|optionskinres:0",
-  "ggp_url": "gin.freefiremobile.com",
-  "updateVersion": "1.130.20",
-  "fakeVersion": "1.130.20"
+  "ggp_url": "gin.freefiremobile.com"
 }
